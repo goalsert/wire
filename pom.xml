@@ -47,6 +47,8 @@
     <module>wire-compiler</module>
     <module>wire-runtime</module>
     <module>wire-gson-support</module>
+    <module>wire-maven-plugin</module>
+    <module>wire-maven-plugin/exemplar</module>
   </modules>
 
  <properties>
